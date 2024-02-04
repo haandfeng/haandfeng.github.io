@@ -1,0 +1,15 @@
+.year {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+.year h1 {
+    color: #333;
+}
+
+.year p {
+    line-height: 1.6;
+}
