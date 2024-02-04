@@ -71,3 +71,24 @@ main img {
     margin: 20px auto;  
     display: block; /* This will remove any extra space below the image that inline elements have */
 }
+.separator {
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+.contact-section {
+    background-color: #f1f1f1; /* 背景颜色，您可以按需修改 */
+    padding: 20px; /* 内边距，您可以按需修改 */
+    text-align: center; /* 文本居中 */
+}
+
+.contact-section h2 {
+    margin: 0 0 10px 0; /* 为标题提供一些底部外边距 */
+    font-size: 1.5rem; /* 字体大小，您可以按需修改 */
+}
+
+.contact-section p {
+    margin: 5px 0; /* 段落之间的间距 */
+    font-size: 1rem; /* 字体大小，您可以按需修改 */
+    color: #333; /* 字体颜色，您可以按需修改 */
+}
